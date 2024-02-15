@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# checking if an IP address alive or no
+# checking if an address is a valid ip address and checking if the address is alive or no.
 echo -n "[+] Enter the Ip address:"
 read ip
 

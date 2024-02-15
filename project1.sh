@@ -1,7 +1,7 @@
 #!/bin/bash
 
+ # Display some general Information related to the system
 
-# displaying some general Infos about the system
 
 while [ $# -gt 0 ]
 do
